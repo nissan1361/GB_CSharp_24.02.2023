@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Мое домашнее задание 1
+// Смотреть Solutions с номерами задач
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Start Solution!");
+
+// @Максим Евлампиев
